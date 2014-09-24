@@ -44,12 +44,29 @@ $(document).ready(function() {
   }
 
   $('#bgBtn').on("click", function() {
+    event.preventDefault()
+
     console.log("Hello Harry!");
 
     $('.navbar').css('background', randomColor());
   });
 
 });
+```
+
+## Changing Background (CoffeeScript)
+
+```
+randomColor = ->
+  '#' + Math.random().toString(16).slice 2, 8
+
+$ ->
+  $('#bgBtn').on "click", (event) ->
+    event.preventDefault()
+
+    console.log "Hello Harry"
+
+    $('body').css 'background', randomColor()
 ```
 
 ## Prevent Default event
@@ -61,6 +78,7 @@ event.preventDefault()
 ## Successful Completion
 
 - You are able to update the background color randomly by clicking a button.
+- You are able to convert JavaScript to CoffeeScript version
 
 ## Reference Links
 
