@@ -34,35 +34,34 @@ Remarks:
 The external link does not have http or https, it will depend on the environment you are visiting. (ie. http or https) Be sure that you are not using file:// to get the jQuery library.
 ```
 
-## Changing Background
+## Changing Background (JavaScript)
 
 ```
+$(document).ready(function() {
 
+  function randomColor() {
+    return '#' + Math.random().toString(16).slice(2, 8);
+  }
+
+  $('#bgBtn').on("click", function() {
+    console.log("Hello Harry!");
+
+    $('.navbar').css('background', randomColor());
+  });
+
+});
 ```
 
-## jQuery DOM
+## Prevent Default event
 
 ```
-$('#bewareButton').click (event) ->
-  $('h1').html('BOOM!!')
-
-$('h1').append("BOOM!!!")
+event.preventDefault()
 ```
 
-```
-<div class="germany">
-  <h1>Champion</h1>
-  <p>2014</p>
-  <div class="match">
-    <p class="result">Germany wins</p>
-    <p>Germany played a good game, Muller got 3 goals so far!</p>
-  </div>
-</div>
+## Successful Completion
 
-$('.germany h1').html()
-$('div.germany h1').html()
-$('.germany h2').html()
-$('.germany p').html()
-$('.germany .match p.result').html()
-```
+- You are able to update the background color randomly by clicking a button.
 
+## Reference Links
+
+- [jQuery .on()](http://api.jquery.com/on/)
