@@ -24,6 +24,17 @@ Have everyone create a new GitHub repo for a Portfolio project.
 
 You should have a "portfolio" repository on GitHub. You should be able to push the project from local, and have that project open in Sublime Text.
 
+## Common Commands
+
+```
+git init
+git add -A
+git commit -m "Initial Commit."
+git remote add origin [git-repo-url]
+git remote -v
+git push -u origin master
+```
+
 ## Resources
 
 * [GitHub](https://github.com/)
