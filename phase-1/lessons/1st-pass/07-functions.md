@@ -96,3 +96,4 @@ fruits.second = vegtables.second()
 
 1. [First Code Challenge in CoffeeScript](https://github.com/annieccheung/wdi3-hk-code-challenge)
 2. [CoffeeScript Practice](https://gist.github.com/bridgpal/c2fbca5182b4d5e53caa)
+3. [Good Programmig Style](http://www.cprogramming.com/tutorial/style.html)
