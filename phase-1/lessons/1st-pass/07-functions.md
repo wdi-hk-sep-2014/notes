@@ -11,6 +11,19 @@ To learn the structure, definition and usage of a CoffeeScript function.
 - Inputs and Outputs (arguments)
 - Why DRY code?
 
+## How to define function?
+
+1. Variable name (Function name)
+2. Thin arrow (->)
+3. Return result
+4. Arguments (optional)
+
+## How to use (call) a function?
+
+1. Variable name (Function name)
+2. Use parentheses () to call it
+3. Pass in argument values
+
 ```
 square = (x) -> x * x
 
