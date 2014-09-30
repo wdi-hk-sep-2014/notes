@@ -4,14 +4,45 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the l
 
 ## Fonts
 
-1. Download the font from [Clear Sans Bold](http://www.fontsquirrel.com/fonts/clear-sans)
+1. Download the font from [Clear Sans Bold](http://www.fontsquirrel.com/fonts/clear-sans), put to `fonts` folder
 2. Setup `font-family`
 3. Setup Font color, size
+
+```
+@font-face {
+  font-family: "Clear Sans";
+  src: url("/fonts/ClearSans-Bold.ttf");
+}
+
+body {
+  font-family: "Clear Sans";
+  color: #776e65;
+}
+
+.cell {
+  font-size: 3em;
+}
+```
 
 ## Colors
 
 - Font Color
 - Background Color
+
+```
+body {
+  background: #faf8ef;
+  color: #776e65;
+}
+
+.board {
+  background: #bbada0;
+}
+
+.cell {
+  background: rgba(238, 228, 218, 0.35);
+}
+```
 
 ## Block Elements
 
@@ -19,11 +50,46 @@ Cascading Style Sheets (CSS) is a style sheet language used for describing the l
 - Height
 - Alignment
 
+```
+body {
+  text-align: center;
+}
+
+.board {
+  width: 456px;
+  height: 456px;
+}
+
+.cell {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+```
+
 ## Borders
 
 - Border
 - Margin
 - Padding
+
+```
+.board {
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 8px;
+}
+
+.cell {
+  border-radius: 3px;
+  margin: 7px;
+}
+
+.cell > div {
+  margin-top: 14px;
+}
+
+```
 
 ## Cascading behaviour
 
