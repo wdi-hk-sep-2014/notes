@@ -16,6 +16,14 @@ kids.brother.name
 
 ```
 
+## Add / Delete a key
+
+```
+kids['brother'] = 'Bob'
+kids.brother = 'Foo'
+delete kids['brother']
+```
+
 ## JavaScript Hash
 
 ```
@@ -50,4 +58,5 @@ delete jane.firstName
 ## Resources
 
 - [Arrays & Hashes](https://gist.github.com/mddub/6184b707d52ca6f66eff)
+- [How to remove key from Hash](http://stackoverflow.com/questions/208105/how-to-remove-a-property-from-a-javascript-object)
 
