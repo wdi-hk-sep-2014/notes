@@ -17,6 +17,12 @@ ages = for child, age of yearsOld
 ## While
 
 ```
+# Keep Alive in the Game
+hp = 100
+defense = 10
+while (hp > 0)
+  hp = hp - defense
+
 # Econ 101
 if this.studyingEconomics
   buy()  while supply > demand
