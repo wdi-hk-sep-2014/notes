@@ -30,7 +30,7 @@ Here hosts links about the projects we will be building over weeks.
 11. Loops
 12. Debug
 13. Open Web
-14. HTTP Verbs
+14. CSS
 15. Board Array
 16. Generate Tile
 17. Move
@@ -52,6 +52,7 @@ Here hosts links about the projects we will be building over weeks.
 8. Rails
 9. Bundle
 10. MVC
+  - HTTP Verbs
 11. BDD
 12. Browsers
 13. OOP
