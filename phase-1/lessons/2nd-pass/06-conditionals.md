@@ -11,7 +11,7 @@ else
 date = if friday then sue else jill
 ```
 
-## Tenary
+## Ternary
 
 ```
 eldest = if 24 > 21 then "Liz" else "Ike"
@@ -38,7 +38,7 @@ switch day
 if (i > 7) { 
     console.log("Hello") 
 } 
-else if (i <3) {
+else if (i < 3) {
     console.log("Goodbye")
 } 
 else { 
@@ -51,3 +51,5 @@ a = {x: 5, y: 7, area_multiplier: function (multiple) {return this.x * this.y * 
 
 ## Resources
 
+- [Truthy vs True Example](http://stackoverflow.com/questions/8127883/easiest-way-to-check-if-string-is-null-or-empty)
+- [JavaScript (== vs ===)](http://stackoverflow.com/questions/359494/does-it-matter-which-equals-operator-vs-i-use-in-javascript-comparisons)

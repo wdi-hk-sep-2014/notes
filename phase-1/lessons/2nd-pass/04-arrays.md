@@ -52,17 +52,17 @@ splicedElement = array.splice(indexOfWorld, 1) will remove "World" from the arra
 ```
 var a = [1, 2, 3]
 
-var vegtables = ["Eggplants", "asparagus", "Lettuce"]
+var vegetables = ["Eggplants", "asparagus", "Lettuce"]
 
 #Join an array
-vegtables.join(", ")
+vegetables.join(", ")
 >"Eggplants", "asparagus", "Lettuce"
 
 #Pop an element off Array
-vegtables.pop()
+vegetables.pop()
 
 #Push an element onto a Array
-vegtables.push("Avacado")
+vegetables.push("Avacado")
 >3
 
 v = vegtables.push("kale")
@@ -80,3 +80,8 @@ Two most difficult parts in programming, include:
 2. Array start with ZERO
 
 - http://stackoverflow.com/questions/8205710/remove-a-value-from-an-array-in-coffeescript
+
+## Quick Challenges
+
+- [Build a removeAt function](https://github.com/wdi-hk-sep-2014/notes/issues/4)
+- [Arrays & Hashes](https://gist.github.com/mddub/6184b707d52ca6f66eff)

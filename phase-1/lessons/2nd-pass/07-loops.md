@@ -1,17 +1,17 @@
 # Loops
 
 ```
+list = [1..10]
+
+for count in list
+  console.log count
+
 countdown = (num for num in [10..1])
 
 yearsOld = max: 10, ida: 9, tim: 11
 
 ages = for child, age of yearsOld
   "#{child} is #{age}"
-
-list = [1..10]
-
-for count in list
-  console.log count
 ```
 
 ## While
@@ -53,3 +53,4 @@ while (i < fruits.length ) {
 
 ## Resources
 
+- [For Quiz](https://gist.github.com/harryworld/96db1a608cf84be2eb85)

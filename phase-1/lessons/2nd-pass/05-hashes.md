@@ -49,3 +49,5 @@ delete jane.firstName
 
 ## Resources
 
+- [Arrays & Hashes](https://gist.github.com/mddub/6184b707d52ca6f66eff)
+

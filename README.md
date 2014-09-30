@@ -8,6 +8,11 @@ Here hosts links about the projects we will be building over weeks.
 - [CoffeeScript](https://github.com/wdi-hk-sep-2014/coffeescript)
 - [2048 Intro](https://github.com/wdi-hk-sep-2014/2048)
 
+## Code Challenges
+
+- [CoffeeScript Practice](https://gist.github.com/bridgpal/c2fbca5182b4d5e53caa)
+- [Arrays & Hashes](https://gist.github.com/mddub/6184b707d52ca6f66eff)
+
 ## Structure
 
 ### Phase 1: Fundamentals
