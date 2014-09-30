@@ -49,6 +49,10 @@ else {
 a = {x: 5, y: 7, area_multiplier: function (multiple) {return this.x * this.y * multiple} };
 ```
 
+## Quick Challenges
+
+- [checkBaggage](https://gist.github.com/mddub/d64f7d04f35bc78e2004)
+
 ## Resources
 
 - [Truthy vs True Example](http://stackoverflow.com/questions/8127883/easiest-way-to-check-if-string-is-null-or-empty)
