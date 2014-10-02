@@ -84,4 +84,5 @@ Two most difficult parts in programming, include:
 ## Quick Challenges
 
 - [Build a removeAt function](https://github.com/wdi-hk-sep-2014/notes/issues/4)
-- [Arrays & Hashes](https://gist.github.com/mddub/6184b707d52ca6f66eff)
+- [Arrays & Hashes Quiz](https://gist.github.com/mddub/6184b707d52ca6f66eff)
+- [Arrays & Functions Quiz](https://gist.github.com/harryworld/3f268088155ba7674637)
