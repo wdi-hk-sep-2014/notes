@@ -106,3 +106,10 @@ Bootstrap is the HTML, CSS, and JS framework for developing responsive, mobile f
 
 - [CSS in Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [Compare Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
+- [Color Blender](http://meyerweb.com/eric/tools/color-blend/)
+
+## Images
+
+- [Color Survey Results](http://blog.xkcd.com/2010/05/03/color-survey-results/)
+
+![How women and men see colors?](../../images/How-women-and-men-see-colors.jpg)
