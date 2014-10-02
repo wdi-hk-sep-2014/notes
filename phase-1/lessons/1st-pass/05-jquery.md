@@ -83,3 +83,5 @@ event.preventDefault()
 ## Reference Links
 
 - [jQuery .on()](http://api.jquery.com/on/)
+- [jQuery Cheatsheet](http://oscarotero.com/jquery/)
+- [jQuery web-based Exercise Drills](http://jqexercise.droppages.com/)

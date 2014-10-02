@@ -13,6 +13,7 @@ Here hosts links about the projects we will be building over weeks.
 - [CoffeeScript Practice](https://gist.github.com/bridgpal/c2fbca5182b4d5e53caa)
 - [Arrays & Hashes](https://gist.github.com/mddub/6184b707d52ca6f66eff)
 - [Arrays](https://gist.github.com/f3r/cd345b7111112afc6753)
+- [jQuery web-based Exercise Drills](http://jqexercise.droppages.com/)
 
 ## Structure
 
