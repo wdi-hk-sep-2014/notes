@@ -3,6 +3,24 @@
 - We will need 4 directions, up / down / left / right
 - Make use of jQuery `keypress()`, and check the key ASCII code.
 
+## Steps
+
+1. Deal with horizontal move first, get the rows
+  - getRow
+2. Merge the cells, handle moving `right`, `down` first
+  - mergeCells
+  - merge
+3. Collapse the cells by removing `0`, handle `right`, `down` first
+  - collapseCells
+4. Set the rows
+  - setRow
+5. Repeat merging for `left`, `up`
+  - mergeCells
+  - collapseCells
+6. Repeat the above with the vertical move
+  - getColumn
+  - setColumn
+
 ```
 move = (board, direction) ->
 
