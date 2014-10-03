@@ -66,3 +66,4 @@ The Network panel provides insights into resources that are requested and downlo
 # Resources
 
 - https://developer.chrome.com/devtools/index
+- [Debugging Exercises](https://gist.github.com/mddub/ddbd0472553c9666371d)
