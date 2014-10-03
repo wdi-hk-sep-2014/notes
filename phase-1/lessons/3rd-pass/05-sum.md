@@ -4,5 +4,10 @@
 - Display the result to the board
 - Build a function for:
   - Sum the cells
-  - Clear merged cell
-  - Collapse empty cells
+
+```
+@sum = 0
+
+sum = (value) ->
+  @sum += value
+```
