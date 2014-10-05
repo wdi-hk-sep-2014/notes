@@ -19,6 +19,8 @@
 
 ## HK WDI-4 Phase 2
 
+- [OMDB API](http://compare-movies.bitballoon.com/)
+
 - Nick: BBQ Event App
 - Morne: Travelling Suggestion
 - JP: online food delivery
