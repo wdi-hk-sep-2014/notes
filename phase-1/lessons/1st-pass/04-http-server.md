@@ -41,6 +41,7 @@ You are able to install node.js based http-server, run it, and visit `http://loc
 - [Web Server](http://en.wikipedia.org/wiki/Web_server)
 - [Homebrew for Mac](http://brew.sh/)
 - [Node.js](http://nodejs.org/)
+- [Why the hell would I use Node.js?](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 - [NPM](https://www.npmjs.org/)
 - [http-server](https://www.npmjs.org/package/http-server)
 - [180 websites in 180 days](http://jenniferdewalt.com/)
