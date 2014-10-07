@@ -15,6 +15,7 @@ Here hosts links about the projects we will be building over weeks.
 - [Arrays](https://gist.github.com/f3r/cd345b7111112afc6753)
 - [jQuery web-based Exercise Drills](http://jqexercise.droppages.com/)
 - [Debugging Exercises](https://gist.github.com/mddub/ddbd0472553c9666371d)
+- [jQuery AJAX on OMDB API](https://github.com/wdi-hk-sep-2014/omdbapi)
 
 ## Structure
 

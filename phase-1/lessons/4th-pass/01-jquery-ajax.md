@@ -65,5 +65,9 @@ alert(omdbJSON.Title);
 ## Resources
 
 - http://www.omdbapi.com/
+- http://gearside.com/public-json-feeds/
+- http://www.jsontest.com/
+- [AJAX Programming](http://en.wikipedia.org/wiki/Ajax_(programming))
+- [OMDB API](http://compare-movies.bitballoon.com/)
 
 ## Very Old Website
