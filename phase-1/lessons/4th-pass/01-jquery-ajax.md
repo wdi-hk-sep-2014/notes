@@ -68,6 +68,7 @@ alert(omdbJSON.Title);
 - http://gearside.com/public-json-feeds/
 - http://www.jsontest.com/
 - [AJAX Programming](http://en.wikipedia.org/wiki/Ajax_(programming))
+- [9 Cool Public JSON Feeds](http://gearside.com/public-json-feeds/)
 - [OMDB API](http://compare-movies.bitballoon.com/)
 
 ## Very Old Website
