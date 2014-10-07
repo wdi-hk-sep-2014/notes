@@ -6,6 +6,21 @@ The objective is for the team to learn a bit about dependency management in Rail
 
 All rails applications have dependencies on other applications. We need to tell rails which dependencies this rails application uses. There are many ways to do this, but the current best practice is to use a program called *bundler*.
 
+We will need to first modify the `~/.gemrc` file with the following:
+
+```
+---
+:update_sources: true
+:sources:
+- http://gems.rubyforge.org/
+- http://gems.github.com
+:benchmark: false
+:bulk_threshold: 1000
+:backtrace: false
+:verbose: true
+gem: --no-ri --no-rdoc
+```
+
 Bundler has to be installed before we can use it. We can install the latest version from our project root folder with the command:
 
 `gem install bundler`
@@ -69,3 +84,4 @@ The should also have some idea what each line in the Gemfile does, even if they 
 * [Uglifier](https://github.com/lautis/uglifier)
 * [Better Errors](https://github.com/charliesome/better_errors)
 * [binding_of_caller](https://github.com/banister/binding_of_caller)
+* [Make --no-ri --no-doc by default](http://stackoverflow.com/questions/1381725/how-to-make-no-ri-no-rdoc-the-default-for-gem-install)
