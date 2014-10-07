@@ -16,6 +16,12 @@ But to really get good at JavaScript, we'll need to write JS code from scratch. 
 
 Choose and run some examples from the [CoffeeScript](http://coffeescript.org/) page while the students ask questions. (Ask the students questions as well.)
 
+```
+npm install -g coffee-script
+
+coffee -wmc js/*.coffee
+```
+
 ## Successful completion
 
 The students understand the basics of converting CoffeeScript to JavaScript and vice versa and can use the CoffeeScript API to figure out the rest.
