@@ -4,6 +4,10 @@
 - You will get feedbacks from your peers.
 - You will get advises from your senior developers.
 
+## 0th Pass: Introduction
+
+1. Lean Startup, Design Thinking and Agile
+
 ## 1st Pass: Preparation
 
 1. **GitHub**: Making use of industry standard to manage web projects
