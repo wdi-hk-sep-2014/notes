@@ -110,3 +110,8 @@ fruits.second = vegtables.second()
 1. [First Code Challenge in CoffeeScript](https://github.com/annieccheung/wdi3-hk-code-challenge)
 2. [CoffeeScript Practice](https://gist.github.com/bridgpal/c2fbca5182b4d5e53caa)
 3. [Good Programmig Style](http://www.cprogramming.com/tutorial/style.html)
+
+# Resources
+
+- [Understanding Fat Arrows (=>) in CoffeeScript](http://webapplog.com/understanding-fat-arrows-in-coffeescript/)
+- [CoffeeScript, When to use fat arrow (=>) over arrow (->) and vice versa](http://stackoverflow.com/questions/8965855/coffeescript-when-to-use-fat-arrow-over-arrow-and-vice-versa)

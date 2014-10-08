@@ -21,6 +21,8 @@ Here hosts links about the projects we will be building over weeks.
 
 ### Phase 1: Fundamentals
 
+Quick Review at: https://gist.github.com/harryworld/ceebff030e0933516b29
+
 1. Programming History
 2. GitHub
 3. jQuery
