@@ -8,6 +8,7 @@
 
 1. **Lean Startup, Design Thinking and Agile**
 2. **XP and Scrum**
+3. **Scrum in Action**
 
 ## 1st Pass: Preparation
 
