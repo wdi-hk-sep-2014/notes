@@ -22,6 +22,10 @@ The facility within the application that directs traffic, on the one hand queryi
 
 This subsystem is implemented in ActionController which is a data broker sitting between ActiveRecord (the database interface) and ActionView (the presentation engine).
 
+## References
+
+- [Steps to start the Rails project](https://gist.github.com/mddub/8a4c770edb04b22d5ead)
+
 ## Images
 
 ### The MVC Framework
