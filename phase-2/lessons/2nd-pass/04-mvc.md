@@ -26,4 +26,4 @@ This subsystem is implemented in ActionController which is a data broker sitting
 
 ### The MVC Framework
 
-![MVC Framework](../../../images/mvc-architecture.jpg)
+![MVC Framework](../../images/mvc-architecture.jpg)
