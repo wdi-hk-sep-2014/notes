@@ -17,6 +17,10 @@ Here hosts links about the projects we will be building over weeks.
 - [Debugging Exercises](https://gist.github.com/mddub/0284695d2401609921ec/revisions)
 - [jQuery AJAX on OMDB API](https://github.com/wdi-hk-sep-2014/omdbapi)
 
+## 5-min Quiz
+
+- [Ruby Quiz D.R.Y.](https://gist.github.com/mddub/0eebbb21f74f5685ee81)
+
 ## Structure
 
 ### Phase 1: Fundamentals
