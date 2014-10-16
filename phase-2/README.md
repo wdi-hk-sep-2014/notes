@@ -31,3 +31,7 @@
 7. Understand Object-oriented Programming (OPP)
 
 ## 3rd Pass: Implementing the Project
+
+1. Setup root route
+2. Generate Controller / Action / View
+3. Generate Model
