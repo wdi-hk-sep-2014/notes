@@ -76,3 +76,9 @@ Quick Review at: https://gist.github.com/harryworld/ceebff030e0933516b29
 20. Relational Database
 21. SQL
 22. Building API
+
+### Other interesting resources to look for
+
+- [curriculum wdi4](https://github.com/harryworld/WDI_Curriculum_4P)
+- [harry's notes](https://github.com/harryworld/course/)
+- [scheduling](https://docs.google.com/a/generalassemb.ly/spreadsheets/d/1m1cd_NezYoohwuediIJErmxjlcMKkAVZbZ_9Uqs--0c/edit#gid=0)
