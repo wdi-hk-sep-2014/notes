@@ -7,6 +7,8 @@ Here hosts links about the projects we will be building over weeks.
 - [Portfolio](https://github.com/harryworld/portfolio)
 - [CoffeeScript](https://github.com/wdi-hk-sep-2014/coffeescript)
 - [2048 Intro](https://github.com/wdi-hk-sep-2014/2048)
+- [Food Dragon](https://github.com/mddub/fooddragon)
+- [Meal Time](https://github.com/wdi-hk-sep-2014/mealtime)
 
 ## Code Challenges
 

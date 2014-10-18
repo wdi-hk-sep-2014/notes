@@ -2,24 +2,17 @@
 
 ## HK WDI-2
 
+### Project 2
+
 - http://showmetheropes.herokuapp.com/
+- http://ski-kini.com/
 
-## Others
-
-- http://findevents.herokuapp.com/
-- http://wdi3.github.io/
-- http://wdi2.github.io/students/
-
-# Project 3
-
-## HK WDI-2
+### Project 3
 
 - http://hktipster.meteor.com/
 - http://pda.meteor.com/
 
 ## HK WDI-4 Phase 2
-
-- [OMDB API](http://compare-movies.bitballoon.com/)
 
 - Nick: BBQ Event App
 - Morne: Travelling Suggestion
@@ -28,4 +21,10 @@
 - Chase: Vocab Learning Manager
 - Alex: Recipe
 - Pierre: RECHARGE
-- Sophia: Whiteboard
+- [Sophia: Whiteboard](http://basics-of-code.herokuapp.com/)
+
+## US Market
+
+- http://findevents.herokuapp.com/
+- http://wdi3.github.io/
+- http://wdi2.github.io/students/
