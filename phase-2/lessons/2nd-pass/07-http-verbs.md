@@ -34,3 +34,4 @@ The students should have a basic understanding of MVC, including the roles of th
 ## Resources
 
 * [Model-View-Controller](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [REST](http://en.wikipedia.org/wiki/Representational_state_transfer)

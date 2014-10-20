@@ -30,3 +30,4 @@ You should have a "ideas" repository on GitHub with a README. They should have c
 * [Git book](http://git-scm.com/book)
 * [Create a repo](https://help.github.com/articles/create-a-repo)
 * http://pcottle.github.io/learnGitBranching/?demo
+* [Try Git](https://try.github.io/)
