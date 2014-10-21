@@ -23,6 +23,7 @@ Here hosts links about the projects we will be building over weeks.
 ## 5-min Quiz
 
 - [Ruby Quiz D.R.Y.](https://gist.github.com/mddub/0eebbb21f74f5685ee81)
+- [Using http methods in Rails](https://gist.github.com/harryworld/777c40cf9bff916cb25e)
 
 ## Structure
 
