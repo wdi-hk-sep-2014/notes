@@ -19,12 +19,14 @@ Here hosts links about the projects we will be building over weeks.
 - [Debugging Exercises](https://gist.github.com/mddub/0284695d2401609921ec/revisions)
 - [jQuery AJAX on OMDB API](https://github.com/wdi-hk-sep-2014/omdbapi)
 - [Rails Model / ActiveRecord](https://gist.github.com/mddub/f13370e496002277d1bb)
+- [PepperLunch](https://github.com/wdi-hk-sep-2014/PepperLunch)
 
 ## 5-min Quiz
 
 - [Ruby Quiz D.R.Y.](https://gist.github.com/mddub/0eebbb21f74f5685ee81)
 - [Using http methods in Rails](https://gist.github.com/harryworld/777c40cf9bff916cb25e)
 - [BDD](https://gist.github.com/harryworld/aa99e4bb043eff2d3a0f)
+- [Model Association](https://gist.github.com/mddub/82a98ffb1e1426cf60a3)
 
 ## Structure
 
