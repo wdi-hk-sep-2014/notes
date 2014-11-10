@@ -80,5 +80,32 @@ Quick Review at: https://gist.github.com/harryworld/ceebff030e0933516b29
 18. RSpec
 19. Model
 20. Relational Database
-21. SQL
-22. Building API
+
+### Phase 3: Advanced Rails
+
+1. GitHub Open Source Community
+2. Project Preparation
+3. Fork Project
+4. Pull Request
+5. Building API in Rails
+6. Layout the architecture
+7. Creating the Board
+8. Implements SASS
+9. Introduces AngularJS
+10. ng-repeat / ng-click
+11. AngularJS Controller
+12. Introudces NoSQL
+13. Build the new project
+14. Scaffold the resource
+15. Setup mongoid
+16. Move the code to new project
+17. Link the API in AngularJS ($http)
+18. Git Flow
+
+### Phase 4: Final Project
+
+- Meteor
+- RSpec
+- d3.js
+- Others
+

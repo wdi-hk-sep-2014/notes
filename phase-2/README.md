@@ -1,4 +1,4 @@
-# Phase 2: Creating Projects
+# Phase 2: Creating Projects (Food Dragon)
 
 - You will need to pitch your project ideas individually to the whole team.
 - You will get feedbacks from your peers.
@@ -26,12 +26,22 @@
 2. Setup Rails Environment
 3. Understand Bundle and Library system
 4. Understand Model-View-Controller (MVC)
-5. Understand Behaviour-driven Development (BDD)
-6. Knowing more about Browsers
-7. Understand Object-oriented Programming (OPP)
+5. Understand Object-oriented Programming (OPP)
 
 ## 3rd Pass: Implementing the Project
 
 1. Setup root route
 2. Generate Controller / Action / View
+  - Routes
+  - Controller
+  - Instance Variables
+  - erb syntax
 3. Generate Model
+  - Model Structure
+  - Model functions
+4. Generate Scaffold (MVC / jbuilder)
+
+## 4th Pass: Convention over Configuration
+
+1. Knowing more about Browsers
+2. Understand Behaviour-driven Development (BDD)
