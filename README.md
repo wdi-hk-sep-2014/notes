@@ -83,24 +83,32 @@ Quick Review at: https://gist.github.com/harryworld/ceebff030e0933516b29
 
 ### Phase 3: Advanced Rails
 
-1. GitHub Open Source Community
-2. Project Preparation
-3. Fork Project
-4. Pull Request
-5. Building API in Rails
-6. Layout the architecture
-7. Creating the Board
-8. Implements SASS
-9. Introduces AngularJS
-10. ng-repeat / ng-click
-11. AngularJS Controller
-12. Introudces NoSQL
-13. Build the new project
-14. Scaffold the resource
-15. Setup mongoid
-16. Move the code to new project
-17. Link the API in AngularJS ($http)
-18. Git Flow
+- 1st Pass
+  1. GitHub Open Source Community
+    - Fork Project
+    - Pull Request
+  2. Define Stakeholders
+  3. Conduct need assessments
+  4. Develop Job Stories
+  5. Create Wireframes
+
+- 2nd Pass
+  1. Creating the Board
+  2. Layout the architecture
+  3. Building API in Rails
+  4. Implements SASS
+  5. Introduces AngularJS
+  6. ng-repeat / ng-click
+  7. AngularJS Controller
+  8. Introudces NoSQL
+
+- 3rd Pass
+  1. Build the new project
+  2. Scaffold the resource
+  3. Setup mongoid
+  4. Move the code to new project
+  5. Link the API in AngularJS ($http)
+  6. Git Flow
 
 ### Phase 4: Final Project
 
