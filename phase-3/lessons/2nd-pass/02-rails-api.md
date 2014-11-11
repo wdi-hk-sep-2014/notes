@@ -1,5 +1,7 @@
 # Building API in Rails
 
+Web API is commonly used in web development, an API is typically defined as a set of Hypertext Transfer Protocol (HTTP) request messages, along with a definition of structure of response messages, usually as XML, or JSON format. Sometimes, the response would be CSV, TSV or other formats as well.
+
 ## Objective
 
 A lot of time we may need to build a system for various platforms, the data between different systems cannot be interchanged directly. Thus, we need to build Application Programming Interface (API) to exchange data.
