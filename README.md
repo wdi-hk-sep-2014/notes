@@ -93,22 +93,24 @@ Quick Review at: https://gist.github.com/harryworld/ceebff030e0933516b29
   5. Create Wireframes
 
 - 2nd Pass
-  1. Creating the Board
-  2. Layout the architecture
-  3. Building API in Rails
+  1. Layout the architecture
+  2. Building API in Rails
+  3. Creating the Board
   4. Implements SASS
   5. Introduces AngularJS
   6. ng-repeat / ng-click
   7. AngularJS Controller
-  8. Introudces NoSQL
+  8. Link the API in AngularJS ($http)
+  9. Devise Ajax Login
+  10. Introduces NoSQL (postponed)
 
 - 3rd Pass
-  1. Build the new project
-  2. Scaffold the resource
-  3. Setup mongoid
-  4. Move the code to new project
-  5. Link the API in AngularJS ($http)
-  6. Git Flow
+  1. Setup ActiveRecord aggregate functions
+  2. Learn SQL
+  3. Switch from SQLite to PostgreSQL
+  4. Heroku Deployment
+  5. Server Logs
+  6. Heroku Addons
 
 ### Phase 4: Final Project
 
