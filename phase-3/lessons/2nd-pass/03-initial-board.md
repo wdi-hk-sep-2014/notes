@@ -4,8 +4,8 @@ We're going to build a quick prototype of website in stages while the team watch
 
 This process is to convert the wireframe into HTML/CSS prototype.
 
-- Build the HTML template
-- Link up the CSS
+- Open the application layout
+- Link up the Bootstrap
 - Set the color scheme
 
 ## Exercise
