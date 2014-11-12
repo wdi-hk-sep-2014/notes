@@ -10,6 +10,7 @@
 
 ## Chrome Extension
 
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 - [CoffeeConsole](https://github.com/snookca/CoffeeConsole/raw/master/coffeeconsole.crx)
 - [Rails](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg)
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-TW)

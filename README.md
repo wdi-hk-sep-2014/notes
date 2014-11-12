@@ -27,6 +27,7 @@ Here hosts links about the projects we will be building over weeks.
 - [Using http methods in Rails](https://gist.github.com/harryworld/777c40cf9bff916cb25e)
 - [BDD](https://gist.github.com/harryworld/aa99e4bb043eff2d3a0f)
 - [Model Association](https://gist.github.com/mddub/82a98ffb1e1426cf60a3)
+- [JSON API](https://gist.github.com/harryworld/91b5b1fb3f047cbd43e8)
 
 ## Structure
 
