@@ -6,7 +6,9 @@
 - [Moom](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)
 - [Spectacle](http://spectacleapp.com/)
 - [SourceTree](http://www.sourcetreeapp.com/)
-- [1 Password]
+- [1 Password](https://agilebits.com/onepassword)
+- [Bartender](http://www.macbartender.com/)
+- [F.lux](https://justgetflux.com/)
 
 ## Chrome Extension
 
@@ -15,6 +17,15 @@
 - [Rails](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg)
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=zh-TW)
 - [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
+- [W3C Validator](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+
+## Sublime Text 3
+
+- [Package Control]
+- [Emmet]
+- [Better CoffeeScript]
+- [SCSS Highlighter]
 
 ## Terminal
 

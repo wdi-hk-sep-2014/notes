@@ -53,4 +53,6 @@ To bootstrap our application with template.
 
 - [Starter template](http://getbootstrap.com/examples/starter-template/)
 - [Grids template](http://getbootstrap.com/examples/grid/)
+- [Emmet Syntax](http://docs.emmet.io/abbreviations/syntax/)
+- [Emmet Cheatsheet](http://docs.emmet.io/cheat-sheet/)
 
