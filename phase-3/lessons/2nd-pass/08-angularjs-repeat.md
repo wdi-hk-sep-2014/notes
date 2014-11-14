@@ -71,7 +71,7 @@ To simpify the process of templating, minimize the line number of codes for the 
 10) Modify the class to show differently for selected state, using `ng-class`
 
 ```html
-<div class="btn btn-success" ng-class="getClass(day)" ng-click="increment($parent.$index, $index)"></div>
+<div class="btn" ng-class="getClass(day)" ng-click="increment($parent.$index, $index)"></div>
 ```
 
 11) Add the `getClass()` method back to controller
@@ -79,6 +79,14 @@ To simpify the process of templating, minimize the line number of codes for the 
 ```
   $scope.getClass = (day) ->
     if day is 0 then 'btn-success' else 'btn-danger'
+```
+
+## Optional
+
+```
+<div class="col-md-2 day" ng-repeat="day in week track by $index">
+  <div class="btn btn-success"></div>
+</div>
 ```
 
 ## Successful Completion
