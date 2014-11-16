@@ -19,7 +19,9 @@ app.controller("TimetableCtrl", ["$scope", "$http", ($scope, $http) ->
 2) Add the `Save` button to the page, this would send the data to server for processing
 
 ```html
-<div class="col-md-2 col-md-offset-5 btn btn-success" ng-click="submitCount()">Save</div>
+<div class="row">
+  <div class="col-md-2 col-md-offset-5 btn btn-success" ng-click="submitCount()">Save</div>
+</div>
 ```
 
 3) Define a new function `submitCount()` in CoffeeScript
@@ -27,7 +29,7 @@ app.controller("TimetableCtrl", ["$scope", "$http", ($scope, $http) ->
 ```
   $scope.submitCount = ->
     jsonObj = {"data": $scope.weeks}
-    $http.post('/api/lunches/submit', jsonObj)
+    $http.post('/api/lunches/submit.json', jsonObj)
       .success (data) ->
         console.log data
       .error (data) ->

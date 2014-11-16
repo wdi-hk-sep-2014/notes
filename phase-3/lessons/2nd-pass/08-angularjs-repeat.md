@@ -41,7 +41,7 @@ To simpify the process of templating, minimize the line number of codes for the 
 6) Remove most of the cells, and use `ng-repeat` as well
 
 ```html
-<div class="col-md-2 day" ng-repeat="day in week">
+<div class="col-md-2 day" ng-repeat="day in week track by $index">
 ```
 
 7) Use the button inside the board in increment the counter
@@ -83,6 +83,8 @@ To simpify the process of templating, minimize the line number of codes for the 
 
 ## Optional
 
+Since AngularJS 1.1.4, it does not allow duplicate keys any more, it will affect the behaviour of array as well. Thus we need to use `track by` below.
+
 ```
 <div class="col-md-2 day" ng-repeat="day in week track by $index">
   <div class="btn btn-success"></div>
@@ -98,3 +100,4 @@ To simpify the process of templating, minimize the line number of codes for the 
 ## Reference Links
 
 - [ng-repeat directive](https://docs.angularjs.org/api/ng/directive/ngRepeat)
+- [angular js: ng-repeat no longer allowing duplicates (v1.1.4)](http://mutablethought.com/2013/04/25/angular-js-ng-repeat-no-longer-allowing-duplicates/)
