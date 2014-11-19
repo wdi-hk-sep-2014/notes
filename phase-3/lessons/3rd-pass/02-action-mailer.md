@@ -149,7 +149,7 @@ Now restart your Rails server. Try using your lunch tracker app to update your l
 
 Now that we can iterate more rapidly, update the mailer and views to also include a bulleted list of the dates the user has eaten at Pepper Lunch. While you're at it, let's clean up the header and `@greeting` that the `generate` command included for us, if you haven't already.
 
-## Another way to test: `mail_view`
+## Another way to test: mail_view
 
 The `mail_view` gem (built into Rails) is a tool for testing the display of an email by rendering an email view with dummy data. Unlike `letter_opener`, which intercepts emails that are sent in the normal course of using your application, `mail_view` lets you specify fake data to populate the messages with so you can focus only on testing the display of the email.
 
@@ -169,4 +169,5 @@ https://github.com/basecamp/mail_view
 * [`letter_opener`](https://github.com/ryanb/letter_opener)
 * [`mail_view`](https://github.com/basecamp/mail_view)
 * [Mailgun addon for Heroku](https://addons.heroku.com/mailgun)
+* [Tutorial: Setup Mailgun With Your Ruby On Rails Heroku App](http://pkuruppu.wordpress.com/2014/04/04/tutorial-setup-mailgun-with-your-ruby-on-rails-heroku-app/)
 * [What is transactional email?](http://blog.mailchimp.com/what-is-transactional-email/)
