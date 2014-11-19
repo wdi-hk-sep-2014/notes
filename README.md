@@ -112,6 +112,7 @@ Quick Review at: https://gist.github.com/harryworld/ceebff030e0933516b29
   4. Heroku Deployment
   5. Server Logs
   6. Heroku Addons
+  7. Action Mailer / Mailgun
 
 ### Phase 4: Final Project
 
