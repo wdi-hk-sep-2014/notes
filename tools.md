@@ -31,6 +31,7 @@
 
 - [git lola](http://blog.kfish.org/2010/04/git-lola.html)
 - [lol]
+- [tig]
 
 ## Web Resources
 

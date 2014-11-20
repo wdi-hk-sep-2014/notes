@@ -168,6 +168,7 @@ https://github.com/basecamp/mail_view
 * [Mailgun](http://www.mailgun.com/) - "The Email Service For Developers"
 * [`letter_opener`](https://github.com/ryanb/letter_opener)
 * [`mail_view`](https://github.com/basecamp/mail_view)
+* [MailCatcher - Simple SMTP server](http://mailcatcher.me/)
 * [Mailgun addon for Heroku](https://addons.heroku.com/mailgun)
 * [Tutorial: Setup Mailgun With Your Ruby On Rails Heroku App](http://pkuruppu.wordpress.com/2014/04/04/tutorial-setup-mailgun-with-your-ruby-on-rails-heroku-app/)
 * [What is transactional email?](http://blog.mailchimp.com/what-is-transactional-email/)
