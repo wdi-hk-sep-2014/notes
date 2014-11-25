@@ -113,6 +113,7 @@ Quick Review at: https://gist.github.com/harryworld/ceebff030e0933516b29
   5. Server Logs
   6. Heroku Addons
   7. Action Mailer / Mailgun
+  8. JavaScript scope
 
 ### Phase 4: Final Project
 
