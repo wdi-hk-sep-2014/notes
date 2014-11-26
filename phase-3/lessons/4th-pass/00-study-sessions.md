@@ -9,6 +9,8 @@
 
 ## Wednesday
 
+- [Debugging Review](https://github.com/wdi-hk-sep-2014/notes/blob/master/phase-3/lessons/4th-pass/02-debugging-review.md)
+
 ## Thursday
 
 ## Reference Links
